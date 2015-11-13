@@ -11,8 +11,8 @@ Diese Datei dient ausschließlich dem Übungszwecke und ist da daher als solche 
 ##fette und *kursive* Schriftart
 
 ### **Tabelle**
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Tabelle        | für           | Alles  |
+|: ------------- |:-------------:|  -----:|
+| some stuff     | some stuff    | 1      |
+| other stuff    | other stuff   | 2      |
+| stuff          | stuff         | 3      |
