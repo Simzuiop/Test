@@ -11,8 +11,8 @@ Diese Datei dient ausschließlich dem Übungszwecke und ist da daher als solche 
 ##fette und *kursive* Schriftart
 
 ### **Tabelle**
-| Tabelle        | für           | Alles  |
-|: ------------- |:-------------:|  -----:|
-| some stuff     | some stuff    | 1      |
-| other stuff    | other stuff   | 2      |
-| stuff          | stuff         | 3      |
+| Tabelle | für| Alles|
+|:-------------|:-------------:|------:|
+| some stuff | some stuff | 1 |
+| other stuff | other stuff | 2 |
+| stuff  | stuff | 3 |
